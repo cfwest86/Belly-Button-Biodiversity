@@ -1,4 +1,4 @@
 # Belly Button Biodiversity 
 
 ## Purpose
-The purposeo of this repository is was t odemonstrate how to parse a JSON file using Javascript, and incorporate unique graphs utilizing plotly to create a interactive dashboard to explore the data. 
+The purpose of this repository is to demonstrate how to parse a JSON file using Javascript, and incorporate unique graphs utilizing plotly, in order to create an interactive dashboard to explore the data. 
